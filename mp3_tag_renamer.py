@@ -18,7 +18,6 @@ NOTES
 - Tested with shazamio 0.8.x, mutagen 1.47+, aiohttp 3.12+
 - Having ffmpeg on PATH can improve recognition robustness on Windows.
 
-Author: ChatGPT (customized per user request)
 """
 
 from __future__ import annotations
@@ -464,3 +463,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
