@@ -1,4 +1,7 @@
-P3 Identifier + Tagger + Snake-Case Renamer + Lyrics Fetcher (Windows-friendly)
+mp3 tag renamer
+---------------
+
+MP3 Identifier + Tagger + Snake-Case Renamer + Lyrics Fetcher (Windows-friendly)
 
 WHAT IT DOES
 - Scans .mp3 files in the current directory (optionally recursively).
